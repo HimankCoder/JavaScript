@@ -1,0 +1,6 @@
+const password = 1223;
+let namee = "Himank";
+var id = "1233"
+state = "haridwar";
+ 
+console.table([password, namee, id, state])
